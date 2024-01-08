@@ -12,7 +12,7 @@
             <!-- Logo will be placed here -->
              <img src="includes/img/jcflogo.png" alt="Logo" class="logo">
         </div>
-        <form action="#" method="post" class="entry-form">
+        <form action="index.php" method="post" class="entry-form">
             <label for="regulationNumber">Regulation Number:</label>
             <input type="text" id="regulationNumber" name="regulationNumber" placeholder="Enter Reg Number" required>
 
